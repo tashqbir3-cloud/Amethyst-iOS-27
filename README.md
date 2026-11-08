@@ -20,7 +20,7 @@ This repository contains the code for our iOS and iPadOS port of Amethyst. Looki
 The [Amethyst wiki](https://wiki.angelauramc.dev/wiki/getting_started/INSTALL.html#ios) has extensive documentation on how to install, set up, and play! For those who wish to install quickly, here's the basics:
 
 ### Requirements
-At the minimum, you'll need one of the following devices on **iOS 14.0** and later:
+At the minimum, you'll need one of the following devices on **iOS 27.0** and later:
 - iPhone 6s and later
 - iPad (5th generation) and later
 - iPad Air (2nd generation) and later
@@ -28,7 +28,7 @@ At the minimum, you'll need one of the following devices on **iOS 14.0** and lat
 - iPad Pro (all models)
 - iPod touch (7th generation)
 
-However, we recommend one of the following devices on **iOS 14.0** and later:
+However, we recommend one of the following devices on **iOS 27.0** and later:
 - iPhone XS and later, excluding iPhone XR and iPhone SE (2nd generation)
 - iPad (10th generation) and later
 - iPad Air (4th generation) and later
@@ -36,7 +36,6 @@ However, we recommend one of the following devices on **iOS 14.0** and later:
 - iPad Pro (all models, except for 9.7-inch)
 
 Recommended devices provide a smoother and more enjoyable gameplay experience compared to other supported devices.
-- iOS 17.x and iOS 18.x is supported. However, a computer is required. For more information, please check out [the official wiki](https://wiki.angelauramc.dev/wiki/faq/ios/JIT.html#what-are-the-methods-to-enable-jit)
 
 ### Setting up to sideload
 Amethyst can be sideloaded in many ways. Our recommended solution is to install [TrollStore](https://github.com/opa334/TrollStore) if your iOS version supports it. Installing with TrollStore allows you to permanently sign the application, automatically enable JIT, and increase memory limits.
